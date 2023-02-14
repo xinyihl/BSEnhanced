@@ -1,9 +1,16 @@
 # BSEnhanced
-### 由[HandyLib](https://www.mcbbs.net/thread-1254437-1-1.html)前置开发
+### 让BlessingSkin皮肤站多一点点功能
+#### 由[HandyLib](https://www.mcbbs.net/thread-1254437-1-1.html)前置开发
 ### 功能
 - 进服自动给予管理员权限，退出取消权限
 - 禁止皮肤站封禁玩家进入服务器
 - 更多功能开发中
+### 安装
+- 你需要在[这里]()下载最新的构建把BSEnhanced.jar丢到plugins文件夹，BSE-API.zip插件安装到皮肤站
+- 启动一次服务器打开config.yml
+- 修改BSE-API的值为BSE-API皮肤站插件提供的链接
+- 修改BSE-API-TOKEN与皮肤站处相同注意不要泄露token
+- 然后就可以使用拉
 
 ### 鸣谢
 感谢[米饭](https://github.com/handy-git)的HandyLib令开发工作简单许多
