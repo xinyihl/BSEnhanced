@@ -6,7 +6,7 @@
 - 禁止皮肤站封禁玩家进入服务器
 - 更多功能开发中
 ### 安装
-- 你需要在[这里]()下载最新的构建把BSEnhanced.jar丢到plugins文件夹，BSE-API.zip插件安装到皮肤站
+- 你需要在[这里](https://github.com/xinyihl/BSEnhanced/releases)下载最新的版本把BSEnhanced.jar丢到plugins文件夹，BSE-API.zip插件安装到皮肤站
 - 启动一次服务器打开config.yml
 - 修改BSE-API的值为BSE-API皮肤站插件提供的链接
 - 修改BSE-API-TOKEN与皮肤站处相同注意不要泄露token
