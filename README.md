@@ -4,6 +4,7 @@
 ### 功能
 - 进服自动给予管理员权限，退出取消权限
 - 禁止皮肤站封禁玩家进入服务器
+- 服务器内设置皮肤站权限
 - 更多功能开发中
 ### 安装
 - 你需要在[这里](https://github.com/xinyihl/BSEnhanced/releases)下载最新的版本把BSEnhanced.jar丢到plugins文件夹，BSE-API.zip插件安装到皮肤站
