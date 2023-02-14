@@ -1,0 +1,30 @@
+name: BSEnhanced
+version: '${project.version}'
+main: cn.xinyihl.BSEnhanced
+author: xinyihl
+description: BlessingSkin皮肤站增强
+commands:
+  BSEnhanced:
+    usage: /BSEnhanced help
+    description: 插件模版
+    aliases: [ bse ]
+permissions:
+  BSEnhanced.*:
+    description: 插件模版
+    children:
+      BSEnhanced.reload: true
+      BSEnhanced.help: true
+      BSEnhanced.test: true
+      BSEnhanced.setskinpermission: true
+  BSEnhanced.reload:
+    description: 重新加载配置
+    default: op
+  BSEnhanced.help:
+    description: 命令帮助
+    default: op
+  BSEnhanced.setskinpermission:
+    description: 设置皮肤站权限
+    default: op
+  BSEnhanced.test:
+    description: test
+    default: op

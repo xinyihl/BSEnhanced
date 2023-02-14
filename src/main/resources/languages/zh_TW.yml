@@ -1,0 +1,23 @@
+noPermission: "&4你沒有許可權執行該命令."
+errorcommand: "&4未知命令，使用/bse help查看幫助."
+autokick: "&f檢測到已在皮膚站封禁玩家{0}登入服務器，已自動踢出遊戲."
+autokickmessage: "&4你在皮膚站被封禁了禁止登入"
+noPlayerFailureMsg: "&f該命令只能玩家執行."
+paramFailureMsg: "&c參數錯誤."
+reloadMsg: "[&3BSEnhanced&f] &a挿件重載完成."
+autogiveop1: "[&3BSEnhanced&f] &c親愛的{0}，已自動給予你op許可權，您的op許可權將在下線時自動取消."
+autogiveop2: "[&3BSEnhanced&f] &c親愛的{0}，已自動給予你op許可權."
+setskinpermission-help: "[&3BSEnhanced&f] /bse setskinpermission [玩家名] [type] -1（封禁）0（正常）1（管理員）2（超級管理員）"
+
+#皮膚站帳號狀態
+BANNED: "封禁"
+NORMAL: "正常"
+ADMIN: "皮膚站管理員"
+SUPER_ADMIN: "皮膚站超級管理員"
+
+helps:
+  - "[&3BSEnhanced&f]&a使用幫助&f&l>>>"
+  - " &6/bse help &c查看幫助"
+  - " &6/bse reload &c重載設定檔"
+  - " &6/bse setskinpermission [玩家名] [type] &c設定皮膚站許可權"
+  - " &6/bse test &c查看自己的皮膚站許可權"
