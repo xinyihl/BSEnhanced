@@ -1,0 +1,23 @@
+NoPermission: "&4You do not have permission to execute this command."
+Errorcommand: "&4Unknown command, use /bse help to view help."
+Autokick: "&f{0} has been banned in the skin station, has automatically kicked out the game."
+Autokickmessage: "&4You are banned in the skin station"
+NoPlayerFailureMsg: "&fThis command can only be executed by players."
+ParamFailureMsg: "&cparameter error."
+ReloadMsg: "[&3BSSEnhanced&f]&a plug-in reload completed."
+Autogiveop1: "[&3BSSEnhanced&f]&c Dear {0}, you have been automatically granted op permission, and your op permission will be automatically cancelled when offline."
+Autogiveop2: "[&3BSSEnhanced&f]&c Dear {0}, you have been automatically granted op permission."
+Setskinpermission-help: "[&3BSEnhanced&f]/bse setskinpermission [player name] [type] - 1 (banned) 0 (normal) 1 (administrator) 2 (super administrator)"
+
+#Skin station account status
+BANNED: "banned"
+NORMAL: "Normal"
+ADMIN: "admin"
+SUPER_ ADMIN: "Superadmin"
+
+helps:
+  - "[&3BSSEnhanced&f]&a Use Help&f&l>>>"
+  - " &6/bse help&c View help"
+  - " &6/bse reload&c reload configuration file"
+  - " &6/bse setskinpermission [player name] [type]&c Set skin station permission"
+  - " &6/bse test&c View your skin station permissions"
