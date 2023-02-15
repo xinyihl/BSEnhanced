@@ -11,6 +11,7 @@
 - 启动一次服务器打开config.yml
 - 修改BSE-API的值为BSE-API皮肤站插件提供的链接
 - 修改BSE-API-TOKEN与皮肤站处相同注意不要泄露token
+- 使用命令/bse reload重载配置文件
 - 然后就可以使用拉
 
 ### 鸣谢
