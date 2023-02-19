@@ -1,0 +1,27 @@
+# 配置文件版本 静止修改该项内容
+configversion: 1.1
+
+# 语言文件 [可选 中文简体:zh_CN;中文繁體:zh_TW;English:en_US]
+language: zh_CN
+
+# 是否开启更新提醒,建议开启
+isCheckUpdate: true
+
+# OP登录时候是否发送更新提醒
+isCheckUpdateToOpMsg: true
+
+# 皮肤站管理员上线自动获得OP
+isAdminJoinGetOp: true
+
+# 皮肤站封禁玩家上线自动踢出(这个是在登入服务器的时候检查是否为封禁如果是就kick)
+isBannedJoinKick: true
+
+# 皮肤站封禁玩家上线自动封禁(这个是开启一个定时线程检查是否为封禁如果是就ban)
+isBannedJoinBan: true
+
+# BSE-API (BlessingSkin配套插件)
+# 查看BSE-API配置页面
+BSE-API: "BSE-API-URL"
+# 在BSE-API配置页面设置
+BSE-API-TOKEN: "BSE-API-TOKEN"
+
