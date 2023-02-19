@@ -17,7 +17,7 @@ isAdminJoinGetOp: true
 isBannedJoinKick: true
 
 # 皮肤站封禁玩家上线自动封禁(这个是开启一个定时线程检查是否为封禁如果是就ban)
-isBannedJoinBan: true
+isBannedAuto: true
 
 # BSE-API (BlessingSkin配套插件)
 # 查看BSE-API配置页面

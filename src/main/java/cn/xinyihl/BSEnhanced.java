@@ -2,6 +2,7 @@ package cn.xinyihl;
 
 import cn.handyplus.lib.InitApi;
 import cn.handyplus.lib.api.MessageApi;
+import cn.xinyihl.ticktimer.AutoBanPlayer;
 import cn.xinyihl.util.ConfigUtil;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -30,8 +31,8 @@ public final class BSEnhanced extends JavaPlugin {
         initApi.initCommand("cn.xinyihl.command")
                 .initListener("cn.xinyihl.listener");
 
-        if(ConfigUtil.CONFIG.getBoolean("isBannedJoinBan")){
-
+        if(ConfigUtil.CONFIG.getBoolean("isBannedAuto")){
+            AutoBanPlayer.MyTimerTask(true);
         }
 
         MessageApi.sendConsoleMessage("§aBSEnhanced已成功载入服务器！");
