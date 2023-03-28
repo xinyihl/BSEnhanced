@@ -1,6 +1,5 @@
 # BSEnhanced
 ### 让BlessingSkin皮肤站多一点点功能
-#### 由[HandyLib](https://www.mcbbs.net/thread-1254437-1-1.html)前置开发
 ### 功能
 - 皮肤站管理员进服自动给予管理员权限，退出取消权限(超级管理员不会取消)
 - 提供接口查询服务器状态以配合CMM菜单使用（使用开源项目github）
@@ -18,7 +17,7 @@
 - 然后就可以使用拉
 
 ### 鸣谢
-感谢[米饭](https://github.com/handy-git)的HandyLib令开发工作简单许多
+感谢[米饭](https://github.com/handy-git)的HandyLib
 
 欢迎提issue给出你的意见    
 给个star支持下把    
